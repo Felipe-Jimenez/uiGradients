@@ -1532,5 +1532,9 @@
     {
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
+    },
+    {
+        "name": "Little Mark",
+        "colors": ["#f2f2f2","#fff5cc"]
     }
 ]
